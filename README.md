@@ -1,8 +1,8 @@
 ### Olá  🤟
 
-- 🔭 Trabalhando atualmente como Analista de Quality Assurance ...
-- 🌱 Estudando Python ...
-- 💬 Pergunte-me sobre RobotFramework  ...
+- 🔭 Especialista em Quality Assurance ...
+- 🌱 Se especializando em Python ...
+- 💬 Te ajudo sobre RobotFramework  ...
 - 📫 Como falar comigo: diogopaz23@gmail.com ...
 - ⚡ Curiosidade: Santista <img align="center" alt="Rafa-Js" height="20" width="20" src="https://i.pinimg.com/originals/2c/07/8c/2c078c673f6ec2b98116b90ebe14a81f.png"> ...
 <div align="center">
@@ -14,6 +14,7 @@
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Docker" height="30" width="30" src="https://raw.githubusercontent.com/github/explore/master/topics/docker/docker.png">
   <img align="center" alt="Selenium" height="30" width="30" src="https://img.icons8.com/color/48/000000/selenium-test-automation.png">
+  <img align="center" alt="Robot" height="30" width="30" src="https://miro.medium.com/max/400/1*RvzyR2oB_2vcTmASWi-CSA.png">
   <img align="center" alt="Heroku" height="30" width="40" src="https://img.icons8.com/color/48/000000/heroku.png">
   <img align="center" alt="PostGre" height="30" width="40" src="https://img2.gratispng.com/20180806/zfw/kisspng-postgresql-clip-art-database-logo-web-design-strategy-relik-5b67d8468fcf82.2394477615335322305891.jpg">
   <img align="center" alt="Ubuntu" height="30" width="30" src="https://raw.githubusercontent.com/github/explore/master/topics/ubuntu/ubuntu.png">
@@ -33,6 +34,6 @@
   <a href = "mailto:diogopaz23@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="hhttps://www.linkedin.com/in/diogo-paz-5b60b738/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/diogopazqa/diogopazqa/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://raw.githubusercontent.com/rafaballerini/rafaballerini/output/github-contribution-grid-snake.svg)
  
 </div>
